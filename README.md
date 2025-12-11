@@ -3,12 +3,12 @@
 ![matrix](https://github.com/rajput2107/rajput2107/blob/master/Assets/MATRIX.gif)
 ![Profile views](https://komarev.com/ghpvc/?username=nurksbr&label=Profile%20Views&color=0e75b6&style=flat)
 
+```txt
  ____                    _               _   _             
 |  _ \ ___  _____   _  (_)_ __ ___  ___| |_(_)_ __   ___  
 | |_) / _ \/ _ \ \ / / | | '_ ` _ \/ __| __| | '_ \ / _ \ 
 |  _ <  __/ (_) \ V /  | | | | | | \__ \ |_| | | | |  __/ 
 |_| \_\___|\___/ \_/   |_|_| |_| |_|___/\__|_|_| |_|\___| 
-
 **Software Engineer | Security Enthusiast | Problem Solver**
 
 ---
