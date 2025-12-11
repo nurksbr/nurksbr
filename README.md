@@ -67,9 +67,8 @@ OS        : Linux & Windows
 ---
 
 ## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurksbr&layout=compact&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=nurksbr&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurksbr&layout=compact&theme=dark&cache_seconds=30)
+![Stats](https://github-readme-stats.vercel.app/api?username=nurksbr&show_icons=true&theme=dark&cache_seconds=30)
 
 ![snake gif](https://github.com/nurksbr/nurksbr/blob/output/github-contribution-grid-snake.svg)
 
