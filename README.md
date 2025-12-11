@@ -28,19 +28,13 @@
 - 🔹 [Python + MongoDB Studies](https://github.com/nurksbr/python-mongo)  
 - 🔹 [C# Game Projects](https://github.com/nurksbr/FlappyBird)  
 
----
-
-## 💻 Tech Stack
-
-Languages : Java, JavaScript, TypeScript, Python, C#
-Backend   : Java, Python
-Frontend  : HTML, CSS, JS
-Database  : MongoDB
-Security  : Kali Linux, Wireshark, Burp Suite
-Tools     : Git, GitHub, VS Code
-OS        : Linux & Windows
-
----
+- **Languages:** Java, JavaScript, TypeScript, Python, C#  
+- **Backend:** Java, Python  
+- **Frontend:** HTML, CSS, JS  
+- **Database:** MongoDB  
+- **Security:** Kali Linux, Wireshark, Burp Suite  
+- **Tools:** Git, GitHub, VS Code  
+- **OS:** Linux & Windows  
 
 ## 🧩 Philosophy
 
