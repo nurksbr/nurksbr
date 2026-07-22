@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+
 
 ### 📊 GitHub Özeti
 
