@@ -58,17 +58,15 @@
 
 ### 📊 GitHub İstatistikleri
 
+### 📊 GitHub Özeti
+
 <div align="center">
 
-  <a href="https://github.com/nurksbr">
-    <img src="https://github-readme-stats.vercel.app/api?username=nurksbr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="160" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurksbr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="Top Langs" />
-  </a>
+![](https://img.shields.io/badge/Public_Repos-30+-0e75b6?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Primary_Focus-Full--Stack_%26_Security-0e75b6?style=for-the-badge&logo=security)
+![](https://img.shields.io/badge/Status-Actively_Building-green?style=for-the-badge)
 
 </div>
-
----
-
 ### 📫 İletişim
 
 <div align="center">
