@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / GIF -->
-  <img src="[https://github.com/rajput2107/rajput2107/blob/master/Assets/MATRIX.gif](https://github.com/rajput2107/rajput2107/blob/master/Assets/MATRIX.gif)" width="100%" height="120px" style="object-fit: cover;" alt="Matrix Banner" />
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/MATRIX.gif" width="100%" height="120px" style="object-fit: cover;" alt="Matrix Banner" />
 
   <br/><br/>
 
@@ -10,8 +10,8 @@
 
   <!-- Badges -->
   <p>
-    <a href="[https://github.com/nurksbr](https://github.com/nurksbr)"><img src="[https://img.shields.io/github/followers/nurksbr?label=Followers&style=for-the-badge&color=0e75b6&logo=github](https://img.shields.io/github/followers/nurksbr?label=Followers&style=for-the-badge&color=0e75b6&logo=github)" alt="GitHub Followers" /></a>
-    <a href="[https://komarev.com/ghpvc/?username=nurksbr&label=Profile%20Views&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=nurksbr&label=Profile%20Views&color=0e75b6&style=for-the-badge)"><img src="[https://komarev.com/ghpvc/?username=nurksbr&label=Profile%20Views&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=nurksbr&label=Profile%20Views&color=0e75b6&style=for-the-badge)" alt="Profile Views" /></a>
+    <a href="https://github.com/nurksbr"><img src="https://img.shields.io/github/followers/nurksbr?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Followers" /></a>
+    <a href="https://komarev.com/ghpvc/?username=nurksbr&label=Profile%20Views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=nurksbr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
   </p>
 
   <p><i>"Learn by building. Break to fix. Repeat forever."</i></p>
@@ -60,17 +60,10 @@
 
 <div align="center">
 
-<a href="[https://github.com/nurksbr](https://github.com/nurksbr)">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=nurksbr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff](https://github-readme-stats.vercel.app/api?username=nurksbr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)" alt="Stats" />
-</a>
-<a href="[https://github.com/nurksbr](https://github.com/nurksbr)">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nurksbr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9](https://github-readme-stats.vercel.app/api/top-langs/?username=nurksbr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)" alt="Top Langs" />
-</a>
-
-<br/><br/>
-
-<!-- Snake Contribution Grid -->
-<img src="[https://github.com/nurksbr/nurksbr/blob/output/github-contribution-grid-snake.svg](https://github.com/nurksbr/nurksbr/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" width="100%" />
+  <a href="https://github.com/nurksbr">
+    <img src="https://github-readme-stats.vercel.app/api?username=nurksbr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="160" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurksbr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="Top Langs" />
+  </a>
 
 </div>
 
@@ -80,8 +73,8 @@
 
 <div align="center">
 
-<a href="[https://github.com/nurksbr](https://github.com/nurksbr)"><img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" /></a>
-<a href="mailto:fnurks1@hotmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
-<a href="[https://fevziyenurkesebir.com](https://fevziyenurkesebir.com)"><img src="[https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)" /></a>
+<a href="https://github.com/nurksbr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:fnurks1@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://fevziyenurkesebir.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 </div>
